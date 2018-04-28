@@ -1,0 +1,10 @@
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\bin\Debug\ContasApto2.0.exe.config
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\bin\Debug\ContasApto2.0.exe
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\bin\Debug\ContasApto2.0.pdb
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\obj\Debug\ContasApto2.0.csprojResolveAssemblyReference.cache
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\obj\Debug\ContasApto2._0.frmPrincipal.resources
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\obj\Debug\ContasApto2._0.Properties.Resources.resources
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\obj\Debug\ContasApto2.0.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\obj\Debug\ContasApto2.0.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\obj\Debug\ContasApto2.0.exe
+C:\Users\marco\source\repos\ContasApto2.0\ContasApto2.0\obj\Debug\ContasApto2.0.pdb
